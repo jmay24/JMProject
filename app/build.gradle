@@ -11,7 +11,7 @@ android {
     compileSdkVersion 25
     buildToolsVersion "25.0.0"
     defaultConfig {
-        applicationId "com.google.firebase.codelab.friendlychat"
+        applicationId "com.m.j.project"
         minSdkVersion 19
         targetSdkVersion 25
         versionCode 1
